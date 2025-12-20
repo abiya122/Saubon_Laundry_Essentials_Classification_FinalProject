@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "391675603402",
+    "firebase_url": "https://saubonlaundryessentials-44c93-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "saubonlaundryessentials-44c93",
+    "storage_bucket": "saubonlaundryessentials-44c93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391675603402:android:5807f4bb5e62227f3e4733",
+        "android_client_info": {
+          "package_name": "com.example.saubonlaundryessentials"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ASt9zXrMbqQaYRNsbtVwCGXvrVyRgHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
