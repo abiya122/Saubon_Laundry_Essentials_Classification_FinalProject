@@ -1,0 +1,10 @@
+0 Iron
+1 Iron Board
+2 Clothes Hanger
+3 Laundry Basket
+4 Clothesline
+5 Laundry Detergent
+6 Fabric Softener
+7 Lint Roller
+8 Washing Machine
+9 Dryer
